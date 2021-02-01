@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.logo {
+    position: relative;   
+    height: 90px;
+    width: 90px;
+}
+
+.header {
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
+
+.line {
+    position: relative;
+    top: 30px;
+    width: 50%;
+}
+
+.current-question {
+    position: relative;
+    top: 40px;
+    border: black;
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    border-style: solid;
+    padding: 10px 20px 20px 20px;
+}
+
+.submit-form {
+    position: relative;
+    top: 90px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+table {
+    margin-top: -100px;
+    margin-left: 7%;
+    border: grey;
+    border-top: 2px;
+    border-right: white;
+    border-bottom: 2px;
+    border-left: white;
+    border-style: solid;
+}
+
+td {
+    padding: 7px;
+}
